@@ -7,7 +7,7 @@ _This is a work in progress._
 
 To use this script, run the fintastic_phish.py file with the -i flag and the path to a directory containing email files as an argument, and the -k flag and your VirusTotal API key as an argument. For example:
 
-    python fintastic_phish.py -i /path/to/directory -k api_key
+    python fintasticphish.py -i /path/to/directory -k api_key
 
 ## Limitations
 
